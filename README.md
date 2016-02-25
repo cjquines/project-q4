@@ -1,6 +1,8 @@
 # project-q4
 A simple database, made for the sole purpose of my fourth quarter ICT project. 
 
+![Form1](http://i.imgur.com/qkTCi12.png)
+
 -	A database management system for handling students.
 -	Supports storage of student IDs, names, sections, subject, grade, down payment, total payment, number of payments and contribution.
 -	Automatically calculates grades based on DO s. 2015 no. 08. Choice of subject is used in computation. Grades automatically transmuted.
