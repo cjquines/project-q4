@@ -1,0 +1,12 @@
+C:\Users\Benedict\AppData\Local\Temporary Projects\Project4\bin\Debug\Project4.exe.config
+D:\School\Grade 10\ict\Project4\Project4\bin\Debug\Project4.exe.config
+D:\School\Grade 10\ict\Project4\Project4\bin\Debug\Project4.exe
+D:\School\Grade 10\ict\Project4\Project4\bin\Debug\Project4.pdb
+D:\School\Grade 10\ict\Project4\Project4\bin\Debug\Project4.xml
+D:\School\Grade 10\ict\Project4\Project4\obj\Debug\Project4.Form1.resources
+D:\School\Grade 10\ict\Project4\Project4\obj\Debug\Project4.Resources.resources
+D:\School\Grade 10\ict\Project4\Project4\obj\Debug\Project4.vbproj.GenerateResource.Cache
+D:\School\Grade 10\ict\Project4\Project4\obj\Debug\Project4.exe
+D:\School\Grade 10\ict\Project4\Project4\obj\Debug\Project4.xml
+D:\School\Grade 10\ict\Project4\Project4\obj\Debug\Project4.pdb
+D:\School\Grade 10\ict\Project4\Project4\obj\Debug\Project4.Form2.resources
